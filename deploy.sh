@@ -6,5 +6,5 @@ echo 'islos.appgranada.com' > CNAME
 git init
 git add -A
 git commit -m 'New docs deployment'
-git push -f git@github.com:islos/product.git master:gh-pages
+git push -f git@github.com:islos-efe-eme/product.git master:gh-pages
 cd -

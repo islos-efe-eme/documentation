@@ -5,7 +5,7 @@
 ### How to
 
 ```sh
-$ git clone https://github.com/islos/product
+$ git clone https://github.com/islos-efe-eme/product
 $ cd product
 $ yarn
 

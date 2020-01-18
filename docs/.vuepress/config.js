@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Islos | Product',
+  title: 'Islos Efe Eme',
   base: '/',
   themeConfig: {
     sidebar: [
