@@ -2,7 +2,7 @@
 
 > Los Santos
 
-### How to
+### Getting started
 
 ```sh
 $ git clone https://github.com/islos-efe-eme/product
