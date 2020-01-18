@@ -5,6 +5,7 @@ module.exports = {
     sidebar: [
       '/',
       '/casino-heist/',
+      '/drug-labs/'
     ]
   }
 }
