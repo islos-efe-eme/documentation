@@ -19,4 +19,14 @@ $ yarn docs:build
 $ yarn deploy
 ```
 
+### New section
+
+```sh
+$ mkdir docs/my-section
+$ touch docs/my-section/README.md
+$ nano docs/my-section/README.md
+```
+
+Your new section will be available under _domain.com/my-section/_ once deployed. 
+
 **Always use a pull request for collaborating.**
