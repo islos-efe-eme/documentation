@@ -11,11 +11,11 @@ module.exports = {
       '/drug-labs/'
     ],
     repo: 'islos-efe-eme/product',
+    docsDir: 'docs',
+    docsBranch: 'master',
     editLinks: true,
     editLinkText: 'Edit this page on GitHub',
-    // default value is true. Set it to false to hide next page links on all pages
     nextLinks: false,
-    // default value is true. Set it to false to hide prev page links on all pages
     prevLinks: false
   }
 }
