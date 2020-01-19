@@ -1,5 +1,6 @@
-# Los Santos documentation
+# Welcome to Los Santos
 
-> TODO
+Welcome to our documentation. Here you'll find how to achieve most of the jobs Los Santos offers to you. Our team is always looking
+for the best way to do it.
 
-Repository: [islos-efe-eme/product](https://github.com/islos-efe-eme/product)
+![launcher](/images/launcher.jpg)
