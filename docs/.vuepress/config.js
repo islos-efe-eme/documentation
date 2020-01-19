@@ -7,8 +7,12 @@ module.exports = {
   themeConfig: {
     sidebar: [
       '/',
+      '/green-heists/',
+      '/doomsday-series/',
       '/casino-heist/',
-      '/drug-labs/'
+      '/drug-labs/',
+      '/ie-vehicles/',
+      '/securoserv/'
     ],
     repo: 'islos-efe-eme/product',
     docsDir: 'docs',
