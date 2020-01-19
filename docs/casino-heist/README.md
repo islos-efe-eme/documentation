@@ -18,7 +18,7 @@ heist. In this guide, we try to explain how to make it properly. This heist can 
 
 ## Silent and Sneaky
 
-This approach is based on a silent approach, this means, your team should not kill every guard and you should use you must be clever on how to do it.
+This approach is based on a silent approach, this means, your team should not kill every guard and you should be clever on how to do it.
 
 ### Setup missions
 
