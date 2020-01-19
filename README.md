@@ -2,7 +2,7 @@
 
 > Los Santos
 
-### How to
+### Getting started
 
 ```sh
 $ git clone https://github.com/islos-efe-eme/product
@@ -30,5 +30,3 @@ $ nano docs/my-section/README.md
 Now, add the route `'/my-section/'` to the array of routes in `.vuepress/config.js`.
 
 Your new section will be available under _domain.com/my-section/_ once deployed. 
-
-**Always use a pull request for collaborating.**
