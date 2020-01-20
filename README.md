@@ -2,6 +2,12 @@
 
 > Los Santos
 
+Ensure you have the following prerequisites installed:
+
+- [Node Erbium](https://nodejs.org/en/) (v12.x LTS) from https://nodejs.org/en/
+- [Yarn](https://yarnpkg.com/en/)
+
+
 ### Getting started
 
 ```sh
