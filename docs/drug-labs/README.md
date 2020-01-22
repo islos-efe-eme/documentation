@@ -5,19 +5,19 @@ lang: en-US
 
 # Drug labs
 
-These are business where you can work on drug production, and later on, sell the generated product. There are different kinds of
+These are businesses where you can work on drug production, and later on, sell the generated product. There are different kinds of
 business to make money: cocaine, meth, weed, fake money, and fake documents.
 
 ## Requirements
 
-- Own a Motorbike Club and a MC station.
+- Own a Motorbike Club and an MC station.
 - Every time you want to produce or to sell, your Motorbike Club must be activated.
 - While you are on your Motorbike Club, you may be attacked by NPCs.
 
 ## Business enhancements
 
 - Factory improvements. This improves the speed and the value of your product. The most important one.
-- Professional workers. By default, your workers are low quality workers, making them profressional ones will increase the value of your product.
+- Professional workers. By default, your workers are low-quality workers, making them professional ones that will increase the value of your product.
 - Security. This only prevents you from being attacked by NPCs.
 
 ## Basic steps
@@ -53,11 +53,11 @@ The second most profitable lab. Produce and sell meth as the Breaking Bad TV sho
 
 #### Weed lab
 
-The third most profitable lab. Grow your own weed, then sell it. This business is a good one to start with and it produces the product quickly.
+The third most profitable lab. Grow your weed, then sell it. This business is a good one to start with and it produces the product quickly.
 
 #### Fake money lab
 
-Produce fake money and sell it. This is a not-bad-not-good business. Easy to sell most of times.
+Produce fake money and sell it. This is a not-bad-not-good business. Easy to sell most of the time.
 
 #### Fake docs lab
 
