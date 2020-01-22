@@ -5,19 +5,19 @@ lang: en-US
 
 # Drug labs
 
-These are business where you can work on drug production, and later on, sell the generated product. There are different kinds of
+These are businesses where you can work on drug production, and later on, sell the generated product. There are different kinds of
 business to make money: cocaine, meth, weed, fake money, and fake documents.
 
 ## Requirements
 
-- Buy a MC Clubhouse from Maze Bank Foreclosures. Location does not matter and does not affect business.
+- Buy an MC Clubhouse from Maze Bank Foreclosures. Location does not matter and does not affect business.
 - Buy one or more labs from the computer you will find on the clubhouse. Before you do, please read this guide.
 
 ## Business enhancements
 
 - **Factory improvements**. This improves the speed and the value of your product. The most important one.
-- **Professional workers**. By default, your workers are low quality workers, making them profressional ones will increase the value of your product.
-- **Security**. This only reduces the possibility from being attacked by NPCs.
+- **Professional workers**. By default, your workers are low-quality workers, making them professional ones that will increase the value of your product.
+- **Security**. This only reduces the possibility of being attacked by NPCs.
 
 ## Basic steps
 
@@ -60,13 +60,13 @@ The second most profitable lab. Produce and sell meth as the Breaking Bad TV sho
 
 #### Fake money lab
 
-Produce fake money and sell it. This is a not-bad-not-good business. Easy to sell most of times.
+Produce fake money and sell it. This is a not-bad-not-good business. Easy to sell most of the time.
 
 ![launcher](/images/drug-labs/fake-money-lab.jpg)
 
 #### Weed lab
 
-The third most profitable lab. Grow your own weed, then sell it. This business is a good one to start with and it produces the product quickly.
+The third most profitable lab. Grow your weed, then sell it. This business is a good one to start with and it produces the product quickly.
 
 ![launcher](/images/drug-labs/weed-lab.jpg)
 

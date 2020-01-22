@@ -5,16 +5,16 @@ lang: en-US
 
 # Casino Heist
 
-This heist has three main ways to complete it. Each one, has its own pros and cons and you have to work on different taks before doing the
-heist. In this guide, we try to explain how to make it properly. This heist can be painful if you don't do things on the right way.
+This heist has three main ways to complete it. Each one has its pros and cons and you have to work on different tasks before doing the
+heist. In this guide, we try to explain how to make it properly. This heist can be painful if you don't do things in the right way.
 
 ## Common notes to all approaches
 
 - Don't kill people when they are not expected to be killed.
 - Do only the needed setup missions.
-- Always take the cheapest gunman, and the cheapest driver.
+- Always take the cheapest gunman and the cheapest driver.
 - Always take the most expensive hacker, it gives you **more time** when taking the money.
-- Leave the treasure room before the timer ends, otherwise you'll fire the alarm and you may die.
+- Leave the treasure room before the timer ends, otherwise, you'll fire the alarm and you may die.
 
 ## Silent and Sneaky
 
