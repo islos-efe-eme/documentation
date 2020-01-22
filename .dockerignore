@@ -1,0 +1,8 @@
+npm-debug.log*
+**/.git
+**/node_modules
+**/.gradle
+**/.idea
+**/out
+**/coverage
+**/dist
