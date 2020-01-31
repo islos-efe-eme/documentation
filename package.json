@@ -1,13 +1,13 @@
 {
-  "name": "product",
+  "name": "documentation",
   "description": "Los Santos documentation",
   "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jesusgn90/product.git"
+    "url": "git+https://github.com/islos-efe-eme/documentation.git"
   },
   "keywords": [
-    "product",
+    "documentation",
     "gta",
     "los-santos",
     "rockstars",
@@ -24,7 +24,7 @@
     "vuepress": "^1.2.0"
   },
   "bugs": {
-    "url": "https://github.com/jesusgn90/product/issues"
+    "url": "https://github.com/islos-efe-eme/documentation/issues"
   },
-  "homepage": "https://github.com/jesusgn90/product#readme"
+  "homepage": "https://github.com/islos-efe-eme/documentation#readme"
 }

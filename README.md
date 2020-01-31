@@ -1,4 +1,4 @@
-# Product documentation
+# Documentation
 
 > Los Santos
 
@@ -13,8 +13,8 @@ Ensure you have the following prerequisites installed:
 Clone the repository:
 
 ```sh
-$ git clone https://github.com/islos-efe-eme/product
-$ cd product
+$ git clone https://github.com/islos-efe-eme/documentation
+$ cd documentation
 ```
 
 Install dependencies:
@@ -53,8 +53,8 @@ $ yarn deploy
 Use the provided `Dockerfile` to build the image and run a container. 
 
 ```sh
-$  docker build --rm -f "Dockerfile" -t product:latest "."
-$  docker run --rm -d -p 8080:8080/tcp product:latest
+$  docker build --rm -f "Dockerfile" -t documentation:latest "."
+$  docker run --rm -d -p 8080:8080/tcp documentation:latest
 ```
 
 Visit http://localhost:8080 on your browser.

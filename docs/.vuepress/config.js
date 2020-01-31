@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Product',
+  title: 'Documentation',
   base: '/',
   head: [
     ['link', { rel: 'icon', href: '/images/favicon.png' }]
@@ -14,7 +14,7 @@ module.exports = {
       '/ie-vehicles/',
       '/securoserv/'
     ],
-    repo: 'islos-efe-eme/product',
+    repo: 'islos-efe-eme/documentation',
     docsDir: 'docs',
     docsBranch: 'master',
     editLinks: true,

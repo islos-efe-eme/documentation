@@ -4,10 +4,10 @@ FROM node:erbium-stretch
 # Install simple http server for serving static content
 RUN yarn global add http-server
 
-# Make the 'product' folder the current working directory
-WORKDIR /product
+# Make the 'documentation' folder the current working directory
+WORKDIR /documentation
 
-# Copy project files and folders to the current working directory (i.e. 'product' folder)
+# Copy project files and folders to the current working directory (i.e. 'documentation' folder)
 COPY . .
 
 # Install project dependencies
