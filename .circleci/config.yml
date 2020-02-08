@@ -1,0 +1,47 @@
+version: 2.1
+
+jobs:
+  build:
+    docker:
+      - image: circleci/node:erbium-stretch
+
+    steps:
+      - checkout
+      - run: yarn install
+      - run: yarn docs:build
+
+  deploy:
+    docker:
+      - image: circleci/node:erbium-stretch
+
+    steps:
+      - checkout
+      - run: yarn install
+      - run: yarn docs:build 
+      - run: cd docs/.vuepress/dist && echo 'islos.appgranada.com' > CNAME
+      - run: cp -R .circleci docs/.vuepress/dist/
+      - run: git config --global user.email "ci-build@islos.com"
+      - run: git config --global user.name "ci-build"
+      - add_ssh_keys:
+          fingerprints:
+            - "45:e0:bf:2c:19:b5:1d:f8:67:49:68:7e:5a:91:a6:0f"
+      # FIXME: check if we need to "cd docs/.vuepress/dist"
+      - run: cd docs/.vuepress/dist && git init
+      - run: cd docs/.vuepress/dist && git add -A
+      - run: cd docs/.vuepress/dist && git commit -m 'New docs deployment'
+      - run: cd docs/.vuepress/dist && git push -f git@github.com:islos-efe-eme/documentation.git master:gh-pages
+
+workflows:
+  version: 2
+  build:
+    jobs:
+      - build:
+          filters:
+            branches:
+              ignore: gh-pages
+      - deploy:
+          requires:
+            - build
+          filters:
+            branches:
+              only: master
