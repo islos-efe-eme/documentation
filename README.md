@@ -1,6 +1,10 @@
 # Documentation
 
-> Los Santos
+**CI status**
+
+[![CircleCI](https://circleci.com/gh/islos-efe-eme/documentation/tree/master.svg?style=svg)](https://circleci.com/gh/islos-efe-eme/documentation/tree/master)
+
+> Welcome to Los Santos
 
 Ensure you have the following prerequisites installed:
 
