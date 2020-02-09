@@ -17,29 +17,12 @@ $ git clone https://github.com/islos-efe-eme/documentation
 $ cd documentation
 ```
 
-Install dependencies:
+**Yarn scripts reference**
 
-```sh
-$ yarn
-```
-
-Local preview (http://localhost:8080) + hot-reload (see as you code):
-
-```sh
-$ yarn docs:dev
-```
-
-Local build (this used by `deploy.sh` only):
-
-```sh
-$ yarn docs:build
-```
-
-Deploy to production (this uses `deploy.sh`):
-
-```sh
-$ yarn deploy
-```
+| Command      | Description                                              |
+|--------------|----------------------------------------------------------|
+| `docs:dev`   | Local development server in localhost:8080 + auto-reload.|
+| `docs:build` | Production build.                                        |
 
 ### New section
 
