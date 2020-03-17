@@ -4,6 +4,24 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections: 
+- type: document
+  path: green-heists/README.md
+  label: Green heists
+- type: document
+  path: doomsday-series/README.md
+  label: Doomsday series
+- type: document
+  path: casino-heist/README.md
+  label: Casino heist
+- type: document
+  path: drug-labs/README.md
+  label: Drug labs
+- type: document
+  path: ie-vehicles/README.md
+  label: I/E vehicles
+- type: document
+  path: securoserv/README.md
+  label: Securoserv
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
